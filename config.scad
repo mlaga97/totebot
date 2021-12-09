@@ -1,4 +1,4 @@
-e = 0.01;
+e = 0.1;
 
 // Real Sterilite Tote Size
 //toteHeight = 125;
